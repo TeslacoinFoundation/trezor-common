@@ -250,6 +250,18 @@
             "t2_enabled": "yes",
             "type": "coin"
         },
+           "coin:TES": {
+            "links": {
+                "Electrum-TES": "https://www.electrum.tesla-coin.com",
+                "Homepage": "https://www.tesla-coin.com"
+            },
+            "marketcap_usd": 1731779,
+            "name": "Teslacoin",
+            "shortcut": "TES",
+            "t1_enabled": "soon",
+            "t2_enabled": "soon",
+            "type": "coin"
+        },
         "coin:LTC": {
             "links": {
                 "Electrum-LTC": "https://electrum-ltc.org",
