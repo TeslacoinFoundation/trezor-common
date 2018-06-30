@@ -6,13 +6,13 @@
   "github": "https://github.com/TeslacoinFoundation/Teslacoin-v.4.0",
   "maintainer": "Rw <info@tesla-coin.com>",
   "curve_name": "secp256k1",
-    
-  "address_type": 36,
-  "address_type_p2sh": 16,
+  "address_type": 11,
+  "address_type_p2sh": 8,
+  
   "maxfee_kb": 1000000,
   "minfee_kb": 100000,
-  "signed_message_header": "FujiCoin Signed Message:\n",
   
+  "signed_message_header": "Teslacoin Signed Message:\n",
   "hash_genesis_block": "0x000002d236d1bd8aa49f17e98117db81491d2127c5621464258e7542d95aba77",
   
   "xpub_magic": 76067358,
@@ -39,7 +39,6 @@
   
   "blocktime_seconds": 30,
   "address_prefix": "teslacoin:",
-  
   "min_address_length": 27,
   "max_address_length": 34,
   
