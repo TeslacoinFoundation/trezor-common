@@ -13,7 +13,7 @@
   "minfee_kb": 100000,
   
   "signed_message_header": "Teslacoin Signed Message:\n",
-  "hash_genesis_block": "0x000002d236d1bd8aa49f17e98117db81491d2127c5621464258e7542d95aba77",
+  "hash_genesis_block": "000002d236d1bd8aa49f17e98117db81491d2127c5621464258e7542d95aba77",
   
   "xpub_magic": 76067358,
   "xprv_magic": 76066276,
